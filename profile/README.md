@@ -61,7 +61,7 @@ All content in this organization is shared under the MIT License. For more detai
 
 ## Contact
 
-For any inquiries or further information, feel free to reach out to us via email at contact@vedicscriptures.org.
+For any inquiries or further information, feel free to reach out to us via email at [vedic.scriptures@outlook.com](mail:vedic.scriptures@outlook.com).
 
 Thank you for visiting Vedic Scriptures on GitHub. We hope you find these resources valuable in your studies and exploration of Vedic literature.
 
